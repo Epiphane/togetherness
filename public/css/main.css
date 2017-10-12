@@ -1,0 +1,13 @@
+body {
+  background: #000;
+  color: #eee;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+body canvas#main {
+  background: #000;
+  margin: 0 auto;
+  cursor: none;
+}
